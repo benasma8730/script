@@ -1,0 +1,26 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 2019 m. spalio 21 d., pirmadienis 16:23:12
+   Source : C:\Users\benas.ma8730\Documents\Faiai\
+     Dest : C:\Users\benas.ma8730\Documents\Failai_backup\Backup\
+
+    Files : .rar
+	    
+  Options : /DCOPY:DA /COPY:DAT /XO /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	  New Dir          0	C:\Users\benas.ma8730\Documents\Faiai\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         0         0         0         0
+   Files :         0         0         0         0         0         0
+   Bytes :         0         0         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : 2019 m. spalio 21 d., pirmadienis 16:23:12
+
